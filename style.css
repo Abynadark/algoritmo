@@ -2,22 +2,43 @@
 
 body{
     font-family: Arial, Helvetica, sans-serif;
-    /*background-image: url(fundo.jpg);
-    background-size: cover;*/
+    background-image: url(3409390.jpg);
+    background-size: cover;
+    color: white;
 }
 
 table{
     width: auto;
     border-collapse: collapse;
+    color: black;
 }
 
 td{
     border: 1px solid black;
-    padding: 8px;
+    padding: 15px 10px;
     text-align: center;
     width: 1000px;
+    background-color: white;
+    text-align: center;
 }
 
 h1{
     text-align: center;
+}
+
+.lateral{
+    background-color: rgb(0, 204, 255);
+}
+
+#vazio{
+    background-color: rgb(221, 221, 221);
+}
+
+p{
+    margin: 20px 10px;
+}
+
+a{
+    padding: 2px;
+    background-color: rgb(255, 252, 252);
 }
